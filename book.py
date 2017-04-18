@@ -1,1 +1,5 @@
-# create your simple Book class in this file
+# create your Book class in this file
+
+
+class Book:
+    pass
